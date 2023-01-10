@@ -1,2 +1,3 @@
-# CE888-2023
-Lecture and lab materials for course 2022/23
+# Welcome!
+
+This repository includes the lab materials for the University of Essex's CE888 (Data Science and Decision Making) course for the 2022/23 academic year.
