@@ -32,7 +32,7 @@ In the Jupyter notebook you created
 - [ ] Calculate the performance (e.g., MSE) of the algorithm on the **validation dataset**
 - [ ] OPTIONAL: Repeat the two points above changing hyper-parameters (i.e., learning rate, number of iterations of SGD, number of latent factors, etc.) as needed to get good results (you can create multiple validation sets if you want, and run a bootstrap!)
 - [ ] Make predictions for the **test dataset**.
-- [ ] Open the quiz on moodle. After you've done it, make sure you save all the code you used in Github!
+- [ ] Open the quiz on Moodle.
 
 
 
