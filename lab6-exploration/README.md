@@ -1,4 +1,4 @@
-# Lab 6 - Exploration and Storytelling
+# Lab 3 - Exploration and Storytelling
 
 This week focuses on data exploration and storytelling.
 
