@@ -1,6 +1,6 @@
-# Week 3 - End-to-end modelling
+# Unit 4 - End-to-end modelling
 
-This week we start using _sklearn_ to model a dataset.
+This week we start using _sklearn_ to train and evaluate a model on a dataset.
 
 ## Ipython notebooks
 
