@@ -25,7 +25,7 @@ This week we start using _sklearn_ to train and evaluate a model on a dataset.
     * Plot a histogram of the label (i.e., column 'y') and calculate the imbalance in the dataset (i.e., divide the number of instances of the minority class by the total length of the dataframe).
 - [ ] Let's model the data. It's very important that you follow these steps in this order or CodeRunner won't mark your solution as correct:
     * Using the `train_test_split` function in scikit-learn, separate your dataset into a training and a test set, with a test size of 20% and random_state=50. Make sure the train/test split is stratified using the `stratify` parameter (and check that it is!). Stratified means that the percentages of classes in each fold remains constant.
-    * Report the results of 10-fold stratified cross-validation on the training set using a random forest classifier with 100 trees and depth=3. **Ensure you're using an appropriate metric** (print `sorted(sklearn.metrics.SCORERS.keys())` to see what are the valid options and choose one for cross-validation).
+    * Report the results of 10-fold stratified cross-validation on the training set using a random forest classifier with 100 trees and depth=3. **Ensure you're using an appropriate metric** (print `sorted(sklearn.metrics.get_scorer_names())` to see what are the valid options and choose one for cross-validation).
     * Compare the cross-validation results of your classifier with those of a dummy classifier.
     * Use `GridSearchCV` to find a better set of parameters for your random forest.
     * Print the cross-validation metric (whichever you previously chose) that you obtain for the random forest for the best parameters found with GridSearchCV (on your training set)
