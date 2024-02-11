@@ -28,4 +28,5 @@ This week we will explore ways to visualise and analyse time series data.
 - [ ] Let's model the data. Start by creating a baseline model -- it's up to you which type: what does your knowledge of the data tell you?
     * Calculate the RMSE, R2, and MAE on your validation set using the baseline/naive method
 - [ ] Select a range of suitable values for $p$ and $q$ and use the AIC criterion to select the best value to train an ARMA model on the time series.
+    * Train the model with the best values and look at the residuals. Is it a valid model for forecasting the data?
 - [ ] Now go to Moodle and complete the Quiz to get your marks for the lab.
