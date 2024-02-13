@@ -19,6 +19,7 @@ This week we will explore ways to visualise and analyse time series data.
 - [ ] Extract the time series from the main data frame. If it has any missing values, drop them after making your copy (so the original data is not overwritten).
 - [ ] Plot the time series, making sure you add proper labels to the axes.
 - [ ] Plot the autocorrelation and partial autocorrelation functions.
+- [ ] Use the STL method to decompose the time series.
 - [ ] Use the ADF test to check if the data is stationary.
 - [ ] Split the data:
     * Training set: first 30 days
