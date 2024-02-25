@@ -14,9 +14,7 @@
 
 ## Lab Exercises
 
-- [ ] Create a folder called lab4
 - [ ] Create a notebook called *my_recommender.ipynb*
-
 In the Jupyter notebook you created
 - [ ] Load the data from ``jester-data-1.csv'',
     * The data is from [https://goldberg.berkeley.edu/jester-data/](https://goldberg.berkeley.edu/jester-data/) and it contains the ratings of 100 jokes from 11,190 users
