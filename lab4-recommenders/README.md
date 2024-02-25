@@ -1,4 +1,4 @@
-# Lab 4 - Recommender systems
+# Lab 6 - Recommender systems
 
 ## Resources
 
@@ -19,7 +19,7 @@
 
 In the Jupyter notebook you created
 - [ ] Load the data from ``jester-data-1.csv'',
-    * The data is from [http://eigentaste.berkeley.edu/dataset/](http://eigentaste.berkeley.edu/dataset/) and it contains the ratings of 100 jokes from 11,190 users
+    * The data is from [https://goldberg.berkeley.edu/jester-data/](https://goldberg.berkeley.edu/jester-data/) and it contains the ratings of 100 jokes from 11,190 users
 	* Check the dataset description to figure out which value you should replace with NaNs (the cells for which we don't have a rating). This is the **test set**. 
 	* To replace values when you load, you can find help here: [https://stackoverflow.com/questions/29247712/how-to-replace-a-value-in-pandas-with-nan](https://stackoverflow.com/questions/29247712/how-to-replace-a-value-in-pandas-with-nan)
 	* There's a column you need to remove because it doesn't contain ratings. Check the description of the dataset and figure out which one. Then drop it.
